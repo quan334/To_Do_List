@@ -1,6 +1,6 @@
-﻿Ứng dụng To-Do List Đơn giản
+﻿Trang web To-Do List Đơn giản
 
-Đây là một ứng dụng web nhỏ gọn giúp bạn quản lý các công việc hàng ngày. Project này được xây dựng với mục đích thực hành các kỹ năng cơ bản về phát triển web front-end.
+Đây là một trang web nhỏ gọn giúp bạn quản lý các công việc hàng ngày. Project này được xây dựng với mục đích thực hành các kỹ năng cơ bản về phát triển web front-end.
 
 
 ✨ Các tính năng chính
